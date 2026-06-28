@@ -6,13 +6,14 @@ The project simulates a basic online burger store where users can browse product
 ---
 
 ## 🚀 Live Demo
-https://lautaroboiro.vercel.app *(replace with your actual project link if needed)*
+The live preview is not available at this time.
 
 ---
 
 ## 📸 Preview
 
-*(Add screenshots here)*
+<img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/d816ed66-0634-416f-8145-113c29280675" />
+
 - Home page
 - Product listing
 - Shopping cart
